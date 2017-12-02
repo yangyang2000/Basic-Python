@@ -1,6 +1,7 @@
 # Basic-Python
 
 This notebook will introduce you to programming in Python, and using the Jupyter Notebook environment. Just download the notebook, create a folder in the same directory called "figures" and work your way through the code. Things we cover:
+
 0. Python/Jupyter basics including MarkDown/Mathjax
 1. Data types
 2. Boolean logic
